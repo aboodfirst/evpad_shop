@@ -434,7 +434,7 @@ footer {
 /* For Tablets (768px) */
 @media (max-width: 768px) {
   header {
-    padding: 1rem;
+    padding: 0.9rem;
     flex-wrap: wrap;
     justify-content: space-between;
   }
