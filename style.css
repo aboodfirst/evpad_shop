@@ -354,6 +354,7 @@ footer {
   nav ul {
     margin-top: 0.5rem;
     gap: 2rem;
+    width: 100%;
   }
 
   nav ul li a {
@@ -447,6 +448,7 @@ footer {
     justify-content: center;
     gap: 1.5rem;
     margin-top: 1rem;
+    width: 100%;
   }
 
   nav ul li a {
@@ -506,6 +508,7 @@ footer {
 
   nav ul {
     gap: 1rem;
+    width: 100%;
   }
 
   nav ul li a {
