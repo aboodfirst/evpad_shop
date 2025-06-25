@@ -535,7 +535,7 @@ footer {
     margin-top: 1rem;
   }
   nav ul li {
-        display: flex;
+    display: flex;
     justify-content: center;
     width: 100%;
   }
